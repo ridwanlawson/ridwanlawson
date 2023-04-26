@@ -21,7 +21,7 @@ I'm always open to new opportunities and collaborations. If you have a project y
 
 ## 📫 How to reach me
 
-You can reach me by email at ridwan.lawson@gmail.com, or on LinkedIn.
+You can reach me by email at ridwanlawsons@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/ridwanlawson)
 
 ## ⚡ Fun fact
 
