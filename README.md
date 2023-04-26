@@ -33,12 +33,6 @@ I am an avid traveler and have visited over 10 countries so far. When I'm not co
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ridwanlawson&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanlawson&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ridwanlawson&icon=1&color=1)](https://visitcount.itsvg.in)
 
