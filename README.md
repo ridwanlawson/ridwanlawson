@@ -1,6 +1,6 @@
 # Hi there, I'm Ridwan Lawson 😄
 
-I'm a Software Developer based in Indonesia who loves building web and mobile applications, with over 5 years of experience in the tech industry.
+I'm a Software Developer based in Indonesia who loves building web and mobile applications, since 2017 experience in the tech industry.
 
 ## 🔭 What I'm currently working on
 
